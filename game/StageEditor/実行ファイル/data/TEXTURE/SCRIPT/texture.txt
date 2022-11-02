@@ -1,0 +1,18 @@
+//==================================================
+//テクスチャのパス読み込み用ファイル
+//Author:村元翼
+//==================================================
+
+// テクスチャ最大数
+TEX_NUM = 3
+
+// 空
+PAS = data/TEXTURE/sky.jpg
+NAME = TEX_TYPE_SKY
+
+// 床
+PAS = data/TEXTURE/floor_000.jpg
+NAME = TEX_TYPE_FLOOR
+
+PAS = data/TEXTURE/Warning.jpg
+NAME = TEX_TYPE_CAUTION

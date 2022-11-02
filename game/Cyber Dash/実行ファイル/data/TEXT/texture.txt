@@ -1,0 +1,122 @@
+//==================================================
+//テクスチャのパス読み込み用ファイル
+//Author:村元翼
+//==================================================
+
+// テクスチャ最大数
+TEX_NUM = 40
+
+// 空のテクスチャ
+PAS = data/TEXTURE/NULL.png
+NAME = TEX_TYPE_NULL
+
+// 背景
+PAS = data/TEXTURE/Cyber000.png
+NAME = TEX_TYPE_CYBER
+
+// 床
+PAS = data/TEXTURE/floor_000.jpg
+NAME = TEX_TYPE_FLOOR
+PAS = data/TEXTURE/Field001.jpg
+NAME = TEX_TYPE_FLOOR2
+
+
+// 文字
+PAS = data/TEXTURE/Title002.png
+NAME = TEX_TYPE_TITLE
+PAS = data/TEXTURE/PressStart000.png
+NAME = TEX_TYPE_PRESS_START
+PAS = data/TEXTURE/Start000.png
+NAME = TEX_TYPE_GAMESTART
+
+// タイトルUI
+PAS = data/TEXTURE/TitleSelect000.png
+NAME = TEX_TYPE_TITLE_SELECT00
+PAS = data/TEXTURE/TitleSelect001.png
+NAME = TEX_TYPE_TITLE_SELECT01
+PAS = data/TEXTURE/TitleSelect002.png
+NAME = TEX_TYPE_TITLE_SELECT02
+PAS = data/TEXTURE/TitleSelect003.png
+NAME = TEX_TYPE_TITLE_SELECT03
+
+PAS = data/TEXTURE/End000.png
+NAME = TEX_TYPE_END
+PAS = data/TEXTURE/ReturnTitle000.png
+NAME = TEX_TYPE_RETURN_TITLE
+
+// チュートリアルUI
+PAS = data/TEXTURE/Tutorial000.png
+NAME = TEX_TYPE_TUTORIAL_SELECT00
+PAS = data/TEXTURE/Tutorial001.png
+NAME = TEX_TYPE_TUTORIAL_SELECT01
+PAS = data/TEXTURE/Tutorial002.png
+NAME = TEX_TYPE_TUTORIAL_SELECT02
+
+
+// ポーズ画面UI
+PAS = data/TEXTURE/PauseSelect000.png
+NAME = TEX_TYPE_PAUSE_SELECT00
+PAS = data/TEXTURE/PauseSelect001.png
+NAME = TEX_TYPE_PAUSE_SELECT01
+
+// リザルトUI
+PAS = data/TEXTURE/ResultSelect000.png
+NAME = TEX_TYPE_RESULT_SELECT00
+PAS = data/TEXTURE/ResultSelect001.png
+NAME = TEX_TYPE_RESULT_SELECT01
+PAS = data/TEXTURE/ResultSelect002.png
+NAME = TEX_TYPE_RESULT_SELECT02
+PAS = data/TEXTURE/Result000.png
+NAME = TEX_TYPE_RESULT
+
+// 数字
+PAS = data/TEXTURE/Number000.png
+NAME = TEX_TYPE_NUMBER
+PAS = data/TEXTURE/Number001.png
+NAME = TEX_TYPE_NUMBER2
+PAS = data/TEXTURE/Number3.png
+NAME = TEX_TYPE_NUMBER_THREE
+PAS = data/TEXTURE/Number2.png
+NAME = TEX_TYPE_NUMBER_TWO
+PAS = data/TEXTURE/Number1.png
+NAME = TEX_TYPE_NUMBER_ONE
+
+// 目印
+PAS = data/TEXTURE/kouzityuu.png
+NAME = TEX_TYPE_KOUZI
+
+// エフェクト
+PAS = data/TEXTURE/effect000.jpg
+NAME = TEX_TYPE_EFFECT_MOVE
+
+// ランキング
+PAS = data/TEXTURE/1st.png
+NAME = TEX_TYPE_1ST
+PAS = data/TEXTURE/2nd.png
+NAME = TEX_TYPE_2ND
+PAS = data/TEXTURE/3rd.png
+NAME = TEX_TYPE_3RD
+PAS = data/TEXTURE/4th.png
+NAME = TEX_TYPE_4TH
+PAS = data/TEXTURE/5th.png
+NAME = TEX_TYPE_5TH
+
+// ゲージ
+PAS = data/TEXTURE/Gauge002.png
+NAME = TEX_TYPE_GAUGE01
+PAS = data/TEXTURE/GaugeFrame000.png
+NAME = TEX_TYPE_GAUGE_FRAME01
+
+// ジャンプサークル
+PAS = data/TEXTURE/JumpCircle000.png
+NAME = TEX_TYPE_JUMPCIRCLE
+PAS = data/TEXTURE/Star000.png
+NAME = TEX_TYPE_JUMPSTAR
+
+// 角丸フレーム
+PAS = data/TEXTURE/RoundFrame000.png
+NAME = TEX_TYPE_ROUNDFRAME
+
+// カーソル
+PAS = data/TEXTURE/Cursor.png
+NAME = TEX_TYPE_CURSOR

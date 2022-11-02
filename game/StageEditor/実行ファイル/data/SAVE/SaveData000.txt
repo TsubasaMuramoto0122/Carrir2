@@ -1,0 +1,86 @@
+//=============================================//
+// ステージデータ[SaveData000.txt]
+// Author : 村元翼
+//=============================================//
+
+//======================================//
+//			 モデル配置情報				//
+//======================================//
+FIELDSET
+	POS = 0.00 0.00 50.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 50.00 0.00 50.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 50.00 0.00 100.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 100.00 0.00 100.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 150.00 0.00 100.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 200.00 0.00 100.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 250.00 0.00 100.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 300.00 0.00 100.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 300.00 0.00 50.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 300.00 0.00 0.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+FIELDSET
+	POS = 300.00 0.00 -50.00
+	ROT = 0.00 0.00 0.00
+	SIZE = 50.00 0.00 50.00
+	BLOCK = 1 1
+END_FIELDSET
+
+END_SCRIPT

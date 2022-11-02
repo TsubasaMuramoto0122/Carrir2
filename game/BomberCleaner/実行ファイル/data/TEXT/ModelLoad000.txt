@@ -1,0 +1,45 @@
+//=======================================================
+// ファイル名・種類数読み込み
+//=======================================================
+//-------------------
+// モデル数
+//-------------------
+NUM_MODEL = 10
+
+	//-------------------
+	// プレイヤー
+	//-------------------
+	PAS = data/MODEL/Player000.x			# [0]プレイヤー
+	NAME = PLAYER_ONE
+
+	//-------------------
+	// オブジェクト
+	//-------------------
+	PAS = data/MODEL/Belt_Conveyor001.x		# [1]ベルトコンベア
+	NAME = MODTYPE_BELTCONVEYOR
+	
+	PAS = data/MODEL/Bomb_Spawner.x			# [2]爆弾スポナー
+	NAME = MODTYPE_BOMB_SPN
+	
+	PAS = data/MODEL/Garbage_Bag.x			# [3]ゴミ袋
+	NAME = MODTYPE_GARBAGE
+	
+	PAS = data/MODEL/Wood_Box.x				# [4]木箱
+	NAME = MODTYPE_WOODBOX
+	
+	PAS = data/MODEL/Field.x				# [5]床
+	NAME = MODTYPE_FIELD
+	
+	PAS = data/MODEL/Bomb001.x				# [6]爆弾
+	NAME = MODTYPE_BOMB
+	
+	PAS = data/MODEL/Conveyor.x				# [7]コンベア
+	NAME = MODTYPE_CONVEYOR
+	
+	PAS = data/MODEL/Conveyor_Spawner.x		# [8]コンベアスポナー
+	NAME = MODTYPE_CONVEYOR_SPN
+	
+	PAS = data/MODEL/Move_Floor.x			# [9]移動床
+	NAME = MODTYPE_MOVE_FLOOR
+	
+END_SCRIPT		// 読み込み終了
